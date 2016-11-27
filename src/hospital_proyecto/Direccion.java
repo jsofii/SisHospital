@@ -32,5 +32,10 @@ public class Direccion {
         this.secundaria = secundaria;
     
     }
+    public void setDireccion(String principal,String secundaria,String numero){
+        this.principal=principal;
+        this.secundaria=secundaria;
+        this.numeracion=numero;
     
+}
 }

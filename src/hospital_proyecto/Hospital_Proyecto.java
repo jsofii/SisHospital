@@ -1,9 +1,12 @@
+package hospital_proyecto;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hospital_proyecto;
+
+
 
 import java.util.Scanner;
 
@@ -13,13 +16,10 @@ import java.util.Scanner;
  */
 public class Hospital_Proyecto {
 
-    /**
-     * @param args the command line arguments
-     */
     
 
     public static void main() {
-            Hospital h=new Hospital();
+        Hospital h=new Hospital();
         Scanner sc=new Scanner(System.in);
         int inicio;
         do{

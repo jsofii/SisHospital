@@ -1,3 +1,5 @@
+package hospital_proyecto;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -8,6 +10,6 @@
  *
  * @author USER
  */
-public class Medico {
+public class Seguro {
     
 }

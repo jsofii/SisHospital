@@ -87,4 +87,4 @@ public class Hospital_Proyecto {
         // TODO code application logic here
     }
     
-}
+

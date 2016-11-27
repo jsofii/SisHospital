@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package hospital_proyecto;
 
 /**
  *
  * @author USER
  */
-public class Turno {
+class Hospital {
     
     
 }

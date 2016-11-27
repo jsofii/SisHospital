@@ -10,7 +10,7 @@ package hospital_proyecto;
  *
  * @author USER
  */
-public class Paciente extends Paciente{
+public class Paciente extends Persona{
     
     
 }
